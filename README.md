@@ -20,4 +20,3 @@
 ![Ejemplo de Convex Hull](ch6.png)
 ![Ejemplo de Convex Hull](ch7.png)
 ![Ejemplo de Convex Hull](ch8.png)
-![Ejemplo de Convex Hull](ch9.png)
