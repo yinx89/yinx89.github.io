@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## PEC2 - Estudio de técnicas de visualización de datos
+## Asignatura: Visualización de datos
 
 You can use the [editor on GitHub](https://github.com/yinx89/yinx89.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
