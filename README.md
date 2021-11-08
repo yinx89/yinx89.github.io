@@ -12,4 +12,12 @@
 
 ### Ejemplo de Convex Hull:
 
-![Ejemplo de Convex Hull](convexhull.png)
+![Ejemplo de Convex Hull](ch1.png)
+![Ejemplo de Convex Hull](ch2.png)
+![Ejemplo de Convex Hull](ch3.png)
+![Ejemplo de Convex Hull](ch4.png)
+![Ejemplo de Convex Hull](ch5.png)
+![Ejemplo de Convex Hull](ch6.png)
+![Ejemplo de Convex Hull](ch7.png)
+![Ejemplo de Convex Hull](ch8.png)
+![Ejemplo de Convex Hull](ch9.png)
