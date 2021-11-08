@@ -4,7 +4,7 @@
 
 ### Ejemplo de Flow map:
 
-<iframe width="600" height="600" src="https://flowmap.blue/1G2WaYSNepoMMGtzFAHAbIBBob88LShV-eWo-UoW0BX0/0db2dd9/embed?v=36.949927%2C-95.739228%2C3.08%2C0%2C0&a=1&as=1&b=1&bo=100&c=1&ca=1&d=0&fe=1&lt=1&lfm=ALL&t=20200320T050100%2C20200407T115800&col=Default&f=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="600" src="https://flowmap.blue/1G2WaYSNepoMMGtzFAHAbIBBob88LShV-eWo-UoW0BX0/0db2dd9/embed?v=36.949927%2C-95.739228%2C3.08%2C0%2C0&a=1&as=1&b=1&bo=100&c=1&ca=1&d=0&fe=1&lt=1&lfm=ALL&t=20200320T050100%2C20200407T115800&col=Default&f=0" frameborder="0" allowfullscreen></iframe>
 
 
 You can use the [editor on GitHub](https://github.com/yinx89/yinx89.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
