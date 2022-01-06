@@ -1,6 +1,6 @@
 # Asignatura: Visualización de datos
 
-<iframe title="v3 - Página 1" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=982ef481-4043-4e34-8884-551a84658b11&autoAuth=true&ctid=35d7acd8-97d3-492f-bd5b-813a038c0e56&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWUtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="v3 - Página 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGZlZTM1MmEtNTRkMi00OWIzLWI1YzUtNDI3ZTg2OTMxYzk0IiwidCI6IjM1ZDdhY2Q4LTk3ZDMtNDkyZi1iZDViLTgxM2EwMzhjMGU1NiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## PEC2 - Estudio de técnicas de visualización de datos
 
